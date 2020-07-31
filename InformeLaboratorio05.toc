@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Procedimiento}{1}% 
+\contentsline {section}{\numberline {2}Ejercicio 01 Creaci\IeC {\'o}n de un proyecto de Analisys Services}{1}% 
+\contentsline {section}{\numberline {3}Ejercicio 02 Creaci\IeC {\'o}n del cubo}{2}% 
+\contentsline {section}{\numberline {4}Ejercicio 03 Agregar un c\IeC {\'a}lculo con nombre}{3}% 
+\contentsline {section}{\numberline {5}Ejercicio 04 Usar el c\IeC {\'a}lculo con nombre para los nombres de miembro}{4}% 
+\contentsline {section}{\numberline {6}Ejercicio 05 Crear una jerarqu\IeC {\'\i }a}{5}% 
